@@ -482,10 +482,17 @@ export function applyCommand(previous, command, context) {
           { from: month(p.joinMonth ?? firstDueMonth), to: null },
         ],
         absences: old?.absences ?? [],
+        hidden: old?.hidden ?? false,
         charges: old?.charges ?? {},
         ...(old?.migration ? { migration: old.migration } : {}),
         createdAt: old?.createdAt ?? now,
       };
+      break;
+    }
+    case "memberVisibility": {
+      const m = validMember(state, p.memberId);
+      ensure(typeof p.hidden === "boolean", "Visibilité invalide.");
+      m.hidden = p.hidden;
       break;
     }
     case "memberPeriods": {

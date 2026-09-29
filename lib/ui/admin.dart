@@ -21,6 +21,7 @@ class AdminPage extends StatefulWidget {
 
 class _AdminPageState extends State<AdminPage> {
   String section = 'Opérations', search = '';
+  bool hidePausedOrDeparted = false, showHiddenMembers = false;
   GapStore get s => widget.store;
   @override
   Widget build(BuildContext context) {
@@ -235,6 +236,28 @@ class _AdminPageState extends State<AdminPage> {
                   onChanged: (v) => setState(() => search = v),
                 ),
               ),
+              SizedBox(
+                width: 310,
+                child: CheckboxListTile(
+                  contentPadding: EdgeInsets.zero,
+                  controlAffinity: ListTileControlAffinity.leading,
+                  title: const Text('Masquer les membres en pause ou partis'),
+                  value: hidePausedOrDeparted,
+                  onChanged: (value) =>
+                      setState(() => hidePausedOrDeparted = value ?? false),
+                ),
+              ),
+              SizedBox(
+                width: 260,
+                child: CheckboxListTile(
+                  contentPadding: EdgeInsets.zero,
+                  controlAffinity: ListTileControlAffinity.leading,
+                  title: const Text('Afficher les adhérents masqués'),
+                  value: showHiddenMembers,
+                  onChanged: (value) =>
+                      setState(() => showHiddenMembers = value ?? false),
+                ),
+              ),
             ],
           ),
           const SizedBox(height: 20),
@@ -244,11 +267,16 @@ class _AdminPageState extends State<AdminPage> {
             Panel(
               child: Column(
                 children: [
-                  for (final m in s.members.where(
-                    (m) => '${m['name']}'.toLowerCase().contains(
+                  for (final m in s.members.where((m) {
+                    final matchesSearch = '${m['name']}'.toLowerCase().contains(
                       search.toLowerCase(),
-                    ),
-                  ))
+                    );
+                    final visible = showHiddenMembers || m['hidden'] != true;
+                    final matchesStatus =
+                        !hidePausedOrDeparted ||
+                        !['En pause', 'Parti'].contains(m['status']);
+                    return matchesSearch && visible && matchesStatus;
+                  }))
                     Container(
                       margin: const EdgeInsets.symmetric(vertical: 2),
                       decoration: BoxDecoration(
@@ -284,6 +312,9 @@ class _AdminPageState extends State<AdminPage> {
                               'resume': 'Supprimer une absence',
                               'depart': 'Enregistrer un départ',
                               'rejoin': 'Réintégrer',
+                              'visibility': m['hidden'] == true
+                                  ? 'Rendre visible dans la liste'
+                                  : 'Masquer de la liste',
                               'delete': 'Supprimer une fiche créée par erreur',
                             }.entries)
                               PopupMenuItem(
@@ -442,6 +473,7 @@ String auditLabel(dynamic action) =>
       'memberSave': 'Fiche adhérent',
       'createMemberAccess': 'Création d’accès',
       'memberPeriods': 'Statut / absence',
+      'memberVisibility': 'Visibilité dans la liste',
       'memberDelete': 'Suppression de fiche',
       'operationSave': 'Opération enregistrée',
       'operationCancel': 'Annulation',
@@ -722,6 +754,19 @@ Future<void> memberAction(
   }
   if (action == 'edit') {
     await memberForm(context, s, existing: m);
+    return;
+  }
+  if (action == 'visibility') {
+    await runAction(
+      context,
+      () => s.execute('memberVisibility', {
+        'memberId': m['id'],
+        'hidden': m['hidden'] != true,
+      }),
+      m['hidden'] == true
+          ? 'Adhérent de nouveau visible dans la liste.'
+          : 'Adhérent masqué. Utilisez « Afficher les adhérents masqués » pour le retrouver.',
+    );
     return;
   }
   if (action == 'payment' || action == 'refund') {

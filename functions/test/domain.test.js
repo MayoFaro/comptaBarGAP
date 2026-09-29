@@ -389,3 +389,18 @@ test('appels nets des paiements et avoirs, y compris les échéances intermédia
   assert.equal(s.members.alice.account.credit, 5000);
   assert.equal(cashBalance(s), 10000);
 });
+
+
+test("masquage d’un adhérent sans effet sur son compte", () => {
+  let s = fixture("2026-09-28");
+  const account = structuredClone(s.members.alice.account);
+  s = command(s, "memberVisibility", { memberId: "alice", hidden: true }, "2026-09-28");
+  assert.equal(s.members.alice.hidden, true);
+  assert.deepEqual(s.members.alice.account, account);
+  s = command(s, "memberVisibility", { memberId: "alice", hidden: false }, "2026-09-28");
+  assert.equal(s.members.alice.hidden, false);
+  assert.throws(
+    () => command(s, "memberVisibility", { memberId: "alice", hidden: "oui" }, "2026-09-28"),
+    /Visibilité invalide/,
+  );
+});
