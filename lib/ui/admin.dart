@@ -252,10 +252,10 @@ class _AdminPageState extends State<AdminPage> {
                     Container(
                       margin: const EdgeInsets.symmetric(vertical: 2),
                       decoration: BoxDecoration(
-                        color: memberBalance(m) > 0
-                            ? Colors.transparent
-                            : Theme.of(context).colorScheme.errorContainer
-                                  .withValues(alpha: 0.55),
+                        color: memberBalance(m) < 0
+                            ? Theme.of(context).colorScheme.errorContainer
+                                  .withValues(alpha: 0.55)
+                            : Colors.transparent,
                         borderRadius: BorderRadius.circular(12),
                       ),
                       child: ListTile(
