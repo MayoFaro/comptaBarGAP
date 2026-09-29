@@ -1,0 +1,8 @@
+{
+  "FIREBASE_PROJECT_ID": "votre-projet",
+  "FIREBASE_API_KEY": "cle-publique-de-l-application-firebase",
+  "FIREBASE_APP_ID": "identifiant-de-l-application-web-ou-android",
+  "FIREBASE_MESSAGING_SENDER_ID": "numero-du-projet",
+  "FIREBASE_AUTH_DOMAIN": "votre-projet.firebaseapp.com",
+  "FIREBASE_STORAGE_BUCKET": "bucket-indique-par-la-console-firebase"
+}

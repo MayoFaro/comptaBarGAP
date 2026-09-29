@@ -1,0 +1,160 @@
+﻿id;date;nature;libelle;montant_fcfa;delta_caisse_fcfa;adherent_excel;delta_compte_fcfa;periode;lignes_excel;date_excel;lien_operation;evenement;note
+excel-925;2026-01-05;depense_caisse;presta cakes;21000;-21000;;0;;925;2026-01-05;;;
+excel-920;2026-01-06;depense_caisse;achat café;42000;-42000;;0;;920;2026-01-06;;;
+excel-926;2026-01-08;depense_caisse;l'escale croissant;40000;-40000;;0;;926;2026-01-08;;;
+excel-921;2026-01-09;paiement_cotisation;Paiement Cotisation;20000;20000;CABELLO;20000;;921;2026-01-09;;;
+excel-927;2026-01-09;remboursement_depense;Participation intendance café — janvier;42000;42000;;0;;927;2026-01-09;excel-920;;
+excel-924;2026-01-10;paiement_cotisation;Paiement Cotisation;20000;20000;BUREL;20000;;924;/;;;Date précisée par le gestionnaire : 10 janvier 2026.
+excel-922;2026-01-12;paiement_cotisation;Paiement Cotisation;10000;10000;MOIRE;10000;;922;2026-01-12;;;
+excel-923;2026-01-21;paiement_cotisation;Paiement Cotisation;13000;13000;ANDREA;13000;;923;2026-01-21;;;
+excel-928;2026-01-23;depense_caisse;achat café;37500;-37500;;0;;928;2026-01-23;;;
+excel-929;2026-01-26;depense_caisse;ptit dej;45500;-45500;;0;;929;2026-01-26;;;
+excel-930;2026-01-26;depense_caisse;akewa;18000;-18000;;0;;930;2026-01-26;;;
+reconst-achat-2026-02;2026-02-01;depense_caisse;Achat café — 2026-02;42000;-42000;;0;;;;;;"Achat supprimé du fichier car intégralement remboursé ; reconstitution validée, date conventionnelle."
+reconst-remb-2026-02;2026-02-01;remboursement_depense;Participation intendance café — 2026-02;42000;42000;;0;;;;reconst-achat-2026-02;;"Remboursement intégral confirmé ; date conventionnelle."
+excel-931;2026-02-02;depense_caisse;chandeleur;20000;-20000;;0;;931;2026-02-02;;;
+excel-932;2026-02-02;depense_caisse;chandeleur;6000;-6000;;0;;932;2026-02-02;;;
+excel-933;2026-02-04;paiement_cotisation;Paiement Cotisation;45000;45000;ZWANG;45000;;933;2026-02-04;;;
+excel-934;2026-02-04;paiement_cotisation;Paiement Cotisation;15000;15000;BURY;15000;;934;2026-02-04;;;
+excel-935;2026-02-04;paiement_cotisation;Paiement Cotisation;30000;30000;PARE;30000;;935;2026-02-04;;;
+excel-936;2026-02-04;appel_historique;Paiement Cotisation;15000;0;ALLARD;-15000;2026-02/2026-03;936;2026-02-04;;;
+excel-937;2026-02-04;appel_historique;Paiement Cotisation;15000;0;BERANTO;-15000;2026-02/2026-03;937;2026-02-04;;;
+excel-938;2026-02-04;appel_historique;Paiement Cotisation;15000;0;BOLLIET;-15000;2026-02/2026-03;938;2026-02-04;;;
+excel-939;2026-02-04;appel_historique;Paiement Cotisation;15000;0;BUREL;-15000;2026-02/2026-03;939;2026-02-04;;;
+excel-940;2026-02-04;appel_historique;Paiement Cotisation;15000;0;BURY;-15000;2026-02/2026-03;940;2026-02-04;;;
+excel-941;2026-02-04;appel_historique;Paiement Cotisation;15000;0;CABELLO;-15000;2026-02/2026-03;941;2026-02-04;;;
+excel-942;2026-02-04;appel_historique;Paiement Cotisation;15000;0;DEPERROIS;-15000;2026-02/2026-03;942;2026-02-04;;;
+excel-943;2026-02-04;appel_historique;Paiement Cotisation;15000;0;LE CAM;-15000;2026-02/2026-03;943;2026-02-04;;;
+excel-944;2026-02-04;appel_historique;Paiement Cotisation;15000;0;LE DOUX;-15000;2026-02/2026-03;944;2026-02-04;;;
+excel-945;2026-02-04;appel_historique;Paiement Cotisation;15000;0;MOIRE;-15000;2026-02/2026-03;945;2026-02-04;;;
+excel-946;2026-02-04;appel_historique;Paiement Cotisation;15000;0;PARE;-15000;2026-02/2026-03;946;2026-02-04;;;
+excel-947;2026-02-04;appel_historique;Paiement Cotisation;15000;0;PENNACCHI;-15000;2026-02/2026-03;947;2026-02-04;;;
+excel-948;2026-02-04;absence_appel_sans_montant;Paiement Cotisation;0;0;MBA ANGOUE;0;2026-02/2026-03;948;2026-02-04;;; Ligne à zéro ou sans montant : justificatif historique uniquement, aucune dette créée.
+excel-949;2026-02-04;appel_historique;Paiement Cotisation;15000;0;ZADIR;-15000;2026-02/2026-03;949;2026-02-04;;;
+excel-950;2026-02-04;absence_appel_sans_montant;Paiement Cotisation;0;0;RAMAHOLISON;0;2026-02/2026-03;950;2026-02-04;;; Ligne à zéro ou sans montant : justificatif historique uniquement, aucune dette créée.
+excel-951;2026-02-04;appel_historique;Paiement Cotisation;15000;0;ZWANG;-15000;2026-02/2026-03;951;2026-02-04;;;
+excel-952;2026-02-04;appel_historique;Paiement Cotisation;15000;0;BARBARAT;-15000;2026-02/2026-03;952;2026-02-04;;;
+excel-953;2026-02-04;appel_historique;Paiement Cotisation;15000;0;ANDREA;-15000;2026-02/2026-03;953;2026-02-04;;;
+excel-954;2026-02-05;depense_personnelle_avec_avoir;achat divers;7800;0;PARE;7800;;954;2026-02-05;;;"Achat personnel pour association ; crédit unique sur cotisations, aucune sortie de caisse."
+excel-955;2026-02-10;depense_caisse;achats divers;62000;-62000;;0;;955;2026-02-10;;;
+excel-956;2026-02-10;depense_caisse;pourboires (méca, evelyne);30000;-30000;;0;;956;2026-02-10;;;
+excel-957;2026-02-16;paiement_cotisation;Paiement Cotisation;15000;15000;ANDREA;15000;;957;2026-02-16;;;
+excel-958;2026-03-05;depense_caisse;crepes;20000;-20000;;0;;958;2026-03-05;;;
+excel-959;2026-03-05;depense_caisse;accompagnement crepes;40000;-40000;;0;;959;2026-03-05;;;
+excel-960;2026-03-06;depense_caisse;achat café;84000;-84000;;0;;960;2026-03-06;;; Achat brut reconstitué : montant net Excel augmenté de la participation mensuelle.
+reconst-remb-2026-03;2026-03-06;remboursement_depense;Participation intendance café — 2026-03;42000;42000;;0;;960;;excel-960;;"Remboursement déjà déduit du montant Excel ; date conventionnelle alignée sur achat."
+excel-961;2026-03-09;depense_caisse;ptit dej;50000;-50000;;0;;961;2026-03-09;;;
+excel-962;2026-03-09;depense_personnelle_avec_avoir;reliquat;2000;0;PARE;2000;;962;2026-03-09;;;"Achat personnel pour association ; crédit unique sur cotisations, aucune sortie de caisse."
+excel-963;2026-03-09;paiement_cotisation;paiement coti;10000;10000;ALLARD;10000;;963;2026-03-09;;;
+excel-964;2026-03-09;paiement_cotisation;paiement coti;20000;20000;MOIRE;20000;;964;2026-03-09;;;
+excel-965;2026-03-17;depense_caisse;changements clefs;100000;-100000;;0;;965;2026-03-17;;;
+excel-966;2026-03-18;paiement_cotisation;Paiement Cotisation;15000;15000;BARBARAT;15000;;966;2026-03-18;;;
+excel-967;2026-03-19;depense_caisse;divers thés;15000;-15000;;0;;967;2026-03-19;;;
+excel-968;2026-03-19;depense_personnelle_avec_avoir;;3200;0;PARE;3200;;968;2026-03-19;;;"Achat personnel pour association ; crédit unique sur cotisations, aucune sortie de caisse."
+reconst-achat-2026-04;2026-04-01;depense_caisse;Achat café — 2026-04;42000;-42000;;0;;;;;;"Achat supprimé du fichier car intégralement remboursé ; reconstitution validée, date conventionnelle."
+reconst-remb-2026-04;2026-04-01;remboursement_depense;Participation intendance café — 2026-04;42000;42000;;0;;;;reconst-achat-2026-04;;"Remboursement intégral confirmé ; date conventionnelle."
+excel-969;2026-04-13;appel_historique;Paiement Cotisation;15000;0;ALLARD;-15000;2026-04/2026-05;969;2026-04-13;;;
+excel-970;2026-04-13;appel_historique;Paiement Cotisation;15000;0;BERANTO;-15000;2026-04/2026-05;970;2026-04-13;;;
+excel-971;2026-04-13;appel_historique;Paiement Cotisation;15000;0;BOLLIET;-15000;2026-04/2026-05;971;2026-04-13;;;
+excel-972;2026-04-13;appel_historique;Paiement Cotisation;15000;0;BUREL;-15000;2026-04/2026-05;972;2026-04-13;;;
+excel-973;2026-04-13;appel_historique;Paiement Cotisation;15000;0;BURY;-15000;2026-04/2026-05;973;2026-04-13;;;
+excel-974;2026-04-13;appel_historique;Paiement Cotisation;15000;0;CABELLO;-15000;2026-04/2026-05;974;2026-04-13;;;
+excel-975;2026-04-13;appel_historique;Paiement Cotisation;15000;0;DEPERROIS;-15000;2026-04/2026-05;975;2026-04-13;;;
+excel-976;2026-04-13;appel_historique;Paiement Cotisation;15000;0;LE CAM;-15000;2026-04/2026-05;976;2026-04-13;;;
+excel-977;2026-04-13;appel_historique;Paiement Cotisation;15000;0;LE DOUX;-15000;2026-04/2026-05;977;2026-04-13;;;
+excel-978;2026-04-13;appel_historique;Paiement Cotisation;15000;0;MOIRE;-15000;2026-04/2026-05;978;2026-04-13;;;
+excel-979;2026-04-13;appel_historique;Paiement Cotisation;15000;0;PARE;-15000;2026-04/2026-05;979;2026-04-13;;;
+excel-980;2026-04-13;appel_historique;Paiement Cotisation;15000;0;PENNACCHI;-15000;2026-04/2026-05;980;2026-04-13;;;
+excel-981;2026-04-13;appel_historique;Paiement Cotisation;15000;0;MBA ANGOUE;-15000;2026-04/2026-05;981;2026-04-13;;;
+excel-982;2026-04-13;appel_historique;Paiement Cotisation;15000;0;ZADIR;-15000;2026-04/2026-05;982;2026-04-13;;;
+excel-983;2026-04-13;appel_historique;Paiement Cotisation;15000;0;ZWANG;-15000;2026-04/2026-05;983;2026-04-13;;;
+excel-984;2026-04-13;appel_historique;Paiement Cotisation;15000;0;BARBARAT;-15000;2026-04/2026-05;984;2026-04-13;;;
+excel-985;2026-04-13;appel_historique;Paiement Cotisation;15000;0;ANDREA;-15000;2026-04/2026-05;985;2026-04-13;;;
+excel-986;2026-04-13;paiement_cotisation;paiement Cotisation;27000;27000;LE CAM;27000;;986;2026-04-13;;;
+excel-987;2026-04-13;paiement_cotisation;paiement Cotisation;15000;15000;BURY;15000;;987;2026-04-13;;;
+excel-988;2026-04-13;paiement_cotisation;paiement Cotisation;34000;34000;DEPERROIS;34000;;988;2026-04-13;;;
+excel-989;2026-04-14;paiement_cotisation;paiement Cotisation;15000;15000;ANDREA;15000;;989;2026-04-14;;;
+excel-990;2026-04-15;depense_caisse;achat broyeur café;55000;-55000;;0;;990;2026-04-15;;;
+excel-991;2026-04-22;paiement_cotisation;paiement Cotisation;10000;10000;MOIRE;10000;;991;2026-04-22;;;
+excel-992;2026-04-22;paiement_cotisation;paiement Cotisation;25000;25000;CABELLO;25000;;992;2026-04-22;;;
+excel-993;2026-04-22;paiement_cotisation;paiement Cotisation;15000;15000;BARBARAT;15000;;993;2026-04-22;;;
+excel-994;2026-04-22;depense_caisse;achat bouteilles verre;10000;-10000;;0;;994;2026-04-22;;;
+excel-995;2026-04-22;paiement_cotisation;paiement Cotisation;30000;30000;BERANTO;30000;;995;2026-04-22;;;
+excel-996;2026-04-23;paiement_cotisation;paiement Cotisation;30000;30000;LE DOUX;30000;;996;2026-04-23;;;
+excel-997;2026-05-06;depense_caisse;achat café;60000;-60000;;0;;997;2026-05-06;;; Achat brut reconstitué : montant net Excel augmenté de la participation mensuelle.
+excel-998;2026-05-06;depense_caisse;filtres eau;20000;-20000;;0;;998;2026-05-06;;;
+reconst-remb-2026-05;2026-05-06;remboursement_depense;Participation intendance café — 2026-05;45000;45000;;0;;997;;excel-997;;"Remboursement déjà déduit du montant Excel ; date conventionnelle alignée sur achat."
+excel-1000;2026-05-12;paiement_cotisation;paiement Cotisation;20000;20000;BUREL;20000;;1000;2026-05-12;;;
+excel-999;2026-05-12;paiement_cotisation;paiement Cotisation;30000;30000;ZADIR;30000;;999;2026-05-12;;;
+excel-1001;2026-05-18;depense_caisse;crepes;40000;-40000;;0;;1001;2026-05-18;;;
+excel-1002;2026-05-18;depense_personnelle_avec_avoir;crepes;8800;0;PARE;8800;;1002;2026-05-18;;;"Achat personnel pour association ; crédit unique sur cotisations, aucune sortie de caisse."
+excel-1004;2026-06-01;appel_historique;Paiement Cotisation;15000;0;ALLARD;-15000;2026-06/2026-07;1004;2026-06-04;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1006;2026-06-01;appel_historique;Paiement Cotisation;15000;0;BUREL;-15000;2026-06/2026-07;1006;2026-06-05;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1007;2026-06-01;appel_historique;Paiement Cotisation;15000;0;ANDREA;-15000;2026-06/2026-07;1007;2026-06-05;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1008;2026-06-01;appel_historique;Paiement Cotisation;15000;0;BURY;-15000;2026-06/2026-07;1008;2026-06-06;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1010;2026-06-01;appel_historique;Paiement Cotisation;15000;0;CABELLO;-15000;2026-06/2026-07;1010;2026-06-07;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1012;2026-06-01;appel_historique;Paiement Cotisation;15000;0;DEPERROIS;-15000;2026-06/2026-07;1012;2026-06-08;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1014;2026-06-01;appel_historique;Paiement Cotisation;15000;0;LE CAM;-15000;2026-06/2026-07;1014;2026-06-09;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1019;2026-06-01;appel_historique;Paiement Cotisation;15000;0;CHAILLOT;-15000;2026-06/2026-07;1019;2026-06-09;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1020;2026-06-01;appel_historique;Paiement Cotisation;15000;0;LE DOUX;-15000;2026-06/2026-07;1020;2026-06-10;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1022;2026-06-01;appel_historique;Paiement Cotisation;15000;0;MOIRE;-15000;2026-06/2026-07;1022;2026-06-11;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1024;2026-06-01;appel_historique;Paiement Cotisation;15000;0;PARE;-15000;2026-06/2026-07;1024;2026-06-12;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1026;2026-06-01;appel_historique;Paiement Cotisation;15000;0;PENNACCHI;-15000;2026-06/2026-07;1026;2026-06-13;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1028;2026-06-01;appel_historique;Paiement Cotisation;15000;0;MBA ANGOUE;-15000;2026-06/2026-07;1028;2026-06-14;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1030;2026-06-01;appel_historique;Paiement Cotisation;15000;0;ZADIR;-15000;2026-06/2026-07;1030;2026-06-15;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1032;2026-06-01;appel_historique;Paiement Cotisation;15000;0;ZWANG;-15000;2026-06/2026-07;1032;2026-06-16;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1034;2026-06-01;absence_appel_sans_montant;Paiement Cotisation;0;0;BARBARAT;0;2026-06/2026-07;1034;2026-06-17;;;"Période et date normalisées selon validation ; date Excel conservée. Ligne à zéro ou sans montant : justificatif historique uniquement, aucune dette créée."
+reconst-achat-2026-06;2026-06-01;depense_caisse;Achat café — 2026-06;45000;-45000;;0;;;;;;"Achat supprimé du fichier car intégralement remboursé ; reconstitution validée, date conventionnelle."
+reconst-remb-2026-06;2026-06-01;remboursement_depense;Participation intendance café — 2026-06;45000;45000;;0;;;;reconst-achat-2026-06;;"Remboursement intégral confirmé ; date conventionnelle."
+excel-1003;2026-06-03;depense_caisse;croque monsieur;85000;-85000;;0;;1003;2026-06-03;;;
+excel-1015;2026-06-09;paiement_cotisation;Paiement Cotisation;9000;9000;PARE;9000;;1015;2026-06-09;;;
+excel-1016;2026-06-09;paiement_cotisation;Paiement Cotisation;30000;30000;ALLARD;30000;;1016;2026-06-09;;;
+excel-1017;2026-06-09;paiement_cotisation;Paiement Cotisation;20000;20000;BUREL;20000;;1017;2026-06-09;;;
+excel-1018;2026-06-09;paiement_cotisation;Paiement Cotisation;15000;15000;ANDREA;15000;;1018;2026-06-09;;;
+excel-1038;2026-06-22;paiement_cotisation;Paiement Cotisation;15000;15000;CABELLO;15000;;1038;2026-06-22;;;
+excel-1039;2026-06-22;paiement_cotisation;Paiement Cotisation;20000;20000;BURY;20000;;1039;2026-06-22;;;
+excel-1040;2026-06-22;paiement_cotisation;Paiement Cotisation;30000;30000;MBA ANGOUE;30000;;1040;2026-06-22;;;
+excel-1041;2026-06-24;paiement_cotisation;paiement Cotisation;50000;50000;PENNACCHI;50000;;1041;2026-06-24;;;
+excel-1042;2026-06-24;paiement_cotisation;paiement Cotisation;20000;20000;DEPERROIS;20000;;1042;2026-06-24;;;
+excel-1043;2026-06-24;paiement_cotisation;paiement Cotisation;15000;15000;LE CAM;15000;;1043;2026-06-24;;;
+reconst-achat-2026-07;2026-07-01;depense_caisse;Achat café — 2026-07;45000;-45000;;0;;;;;;"Achat supprimé du fichier car intégralement remboursé ; reconstitution validée, date conventionnelle."
+reconst-remb-2026-07;2026-07-01;remboursement_depense;Participation intendance café — 2026-07;45000;45000;;0;;;;reconst-achat-2026-07;;"Remboursement intégral confirmé ; date conventionnelle."
+excel-1044;2026-07-24;depense_caisse;achat café;45000;-45000;;0;;1044;2026-07-24;;;
+excel-1005;2026-08-01;appel_historique;Paiement Cotisation;15000;0;ALLARD;-15000;2026-08/2026-09;1005;2026-06-04;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1009;2026-08-01;appel_historique;Paiement Cotisation;15000;0;BUREL;-15000;2026-08/2026-09;1009;2026-06-06;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1011;2026-08-01;appel_historique;Paiement Cotisation;15000;0;BURY;-15000;2026-08/2026-09;1011;2026-06-07;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1013;2026-08-01;appel_historique;Paiement Cotisation;15000;0;CABELLO;-15000;2026-08/2026-09;1013;2026-06-08;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1021;2026-08-01;appel_historique;Paiement Cotisation;15000;0;DEPERROIS;-15000;2026-08/2026-09;1021;2026-06-10;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1023;2026-08-01;appel_historique;Paiement Cotisation;15000;0;LE CAM;-15000;2026-08/2026-09;1023;2026-06-11;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1025;2026-08-01;appel_historique;Paiement Cotisation;15000;0;LE DOUX;-15000;2026-08/2026-09;1025;2026-06-12;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1027;2026-08-01;appel_historique;Paiement Cotisation;15000;0;MOIRE;-15000;2026-08/2026-09;1027;2026-06-13;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1029;2026-08-01;appel_historique;Paiement Cotisation;15000;0;MBA ANGOUE;-15000;2026-08/2026-09;1029;2026-06-14;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1031;2026-08-01;appel_historique;Paiement Cotisation;15000;0;PARE;-15000;2026-08/2026-09;1031;2026-06-15;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1033;2026-08-01;appel_historique;Paiement Cotisation;15000;0;PENNACCHI;-15000;2026-08/2026-09;1033;2026-06-16;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1035;2026-08-01;appel_historique;Paiement Cotisation;15000;0;ZADIR;-15000;2026-08/2026-09;1035;2026-06-17;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1036;2026-08-01;appel_historique;Paiement Cotisation;15000;0;ANDREA;-15000;2026-08/2026-09;1036;2026-06-18;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1037;2026-08-01;appel_historique;Paiement Cotisation;15000;0;ZWANG;-15000;2026-08/2026-09;1037;2026-06-18;;;"Période et date normalisées selon validation ; date Excel conservée."
+excel-1045;2026-08-07;paiement_cotisation;paiement Cotisation;30000;30000;MOIRE;30000;;1045;2026-08-07;;;
+excel-1046;2026-08-10;paiement_cotisation;paiement Cotisation;15000;15000;CHAILLOT;15000;;1046;2026-08-10;;;
+excel-1047;2026-08-10;paiement_cotisation;paiement Cotisation;15000;15000;LE CAM;15000;;1047;2026-08-10;;;
+excel-1048;2026-08-10;paiement_cotisation;paiement Cotisation;15000;15000;DEPERROIS;15000;;1048;2026-08-10;;;
+excel-1049;2026-08-10;paiement_cotisation;paiement Cotisation;15000;15000;CABELLO;15000;;1049;2026-08-10;;;
+excel-1050;2026-08-10;paiement_cotisation;paiement Cotisation;10000;10000;BUREL;10000;;1050;2026-08-10;;;
+excel-1051;2026-08-10;paiement_cotisation;paiement Cotisation;30000;30000;ZWANG;30000;;1051;2026-08-10;;;
+excel-1052;2026-08-11;depense_personnelle_avec_avoir;achat filtres eau;17000;0;PARE;17000;;1052;2026-08-11;;;"Achat personnel pour association ; crédit unique sur cotisations, aucune sortie de caisse."
+excel-1053;2026-08-14;depense_caisse;achat café+bières;120000;-120000;;0;;1053;2026-08-14;;; Achat brut reconstitué : montant net Excel augmenté de la participation mensuelle.
+excel-1054;2026-08-14;depense_caisse;achat vins repas 17 aout;70000;-70000;;0;;1054;2026-08-14;;Repas du 17 août;
+reconst-remb-2026-08;2026-08-14;remboursement_depense;Participation intendance café — 2026-08;45000;45000;;0;;1053;;excel-1053;;"Remboursement déjà déduit du montant Excel ; date conventionnelle alignée sur achat."
+excel-1055;2026-08-16;depense_caisse;repas 17 aout;310000;-310000;;0;;1055;2026-08-16;;Repas du 17 août;
+excel-1056;2026-08-16;depense_personnelle_avec_avoir;complément addtition repas;30000;0;DEPERROIS;30000;;1056;2026-08-16;;Repas du 17 août;"Achat personnel pour association ; crédit unique sur cotisations, aucune sortie de caisse."
+excel-1058;2026-08-17;remboursement_depense;Participation GAP — vins repas du 17 août;70000;70000;;0;;1058;2026-08-17;excel-1054;Repas du 17 août;
+excel-1057;2026-08-25;paiement_cotisation;paiement Cotisation;30000;30000;LE DOUX;30000;;1057;2026-08-25;;;
+excel-1059;2026-09-01;vente_boissons;achat boissons;3000;3000;;0;;1059;2026-09-01;;;"Vente de boissons à PARE ; retrait du crédit de cotisation indu de 3 000 FCFA."
+excel-1060;2026-09-01;remboursement_avoir;vidage compte;3000;-3000;DEPERROIS;-3000;;1060,1061;2026-09-01;;;Fusion des lignes cash 1060 et coti 1061 : un seul remboursement.
+excel-1062;2026-09-01;paiement_cotisation;paiement Cotisation;20000;20000;MBA ANGOUE;20000;;1062;2026-09-01;;;
+excel-1064;2026-09-01;depense_caisse;achat café;63000;-63000;;0;;1064;2026-09-01;;; Achat brut reconstitué : montant net Excel augmenté de la participation mensuelle.
+reconst-remb-2026-09;2026-09-01;remboursement_depense;Participation intendance café — 2026-09;45000;45000;;0;;1064;;excel-1064;;"Remboursement déjà déduit du montant Excel ; date conventionnelle alignée sur achat."
+excel-1063;2026-09-15;depense_personnelle_avec_avoir;dégust vins;112000;0;DEPERROIS;112000;;1063;2026-09-15;;Dégustation de vins;"Achat personnel pour association ; crédit unique sur cotisations, aucune sortie de caisse."
+excel-1065;2026-09-16;remboursement_avoir;monnaie;2000;-2000;DEPERROIS;-2000;;1065;2026-09-16;;;"Le bilan Excel compte déjà le débit cash de 2 000 FCFA dans le compte adhérent : conserver cet effet unique de cette ligne. Ancienne modification compensatoire non identifiable conservée dans les données source ; ne pas ajouter une seconde écriture de débit."
+excel-1066;2026-09-20;avance_a_recuperer;Avance profit GAP;30000;-30000;;0;;1066;2026-09-20;;;"Créance GAP de 30 000 FCFA non remboursée ; retrait du débit indu du compte LE CAM. Ne pas confondre avec dépense définitive."
+excel-1067;2026-09-22;depense_caisse;achat café;60000;-60000;;0;;1067;2026-09-22;;;

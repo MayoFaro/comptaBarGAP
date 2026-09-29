@@ -1,0 +1,19 @@
+{
+  "name": "Comptes Bar GAP",
+  "short_name": "Bar GAP",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4F6F3",
+  "theme_color": "#174E45",
+  "description": "Caisse et cotisations de l’association",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

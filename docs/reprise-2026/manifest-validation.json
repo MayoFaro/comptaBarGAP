@@ -1,0 +1,7 @@
+{
+  "description": "Montants validés par le gestionnaire ; DEPERROIS 144210, PARE 17830, LE CAM 500. Modifications des CSV nécessitent un nouveau contrôle.",
+  "files": {
+    "02-operations-proposees.csv": "0b69dfd9f3492a6c9b1a60a4954df09bf49c0653e02509936f6a4920b253005e",
+    "03-soldes-adherents.csv": "a0cb847755a2eef89b96d1c59854037ab7f4cf8066e615bcd0a5bb42ffdfc33e"
+  }
+}

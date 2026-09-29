@@ -1,0 +1,149 @@
+﻿ligne;compte;date_excel;libelle;type_excel;credit_fcfa;debit_fcfa;solde_caisse_excel
+920;Achat café;2026-01-06;achat café;cash;0;42000;412000
+921;CABELLO;2026-01-09;Paiement Cotisation;cash;20000;0;432000
+922;MOIRE;2026-01-12;Paiement Cotisation;cash;10000;0;442000
+923;ANDREA;2026-01-21;Paiement Cotisation;cash;13000;0;455000
+924;BUREL;/;Paiement Cotisation;cash;20000;0;475000
+925;Pot / Petit Déj;2026-01-05;presta cakes;cash;0;21000;454000
+926;Pot / Petit Déj;2026-01-08;l'escale croissant;cash;0;40000;414000
+927;Achat café;2026-01-09;emboursement café GAP;cash;42000;0;456000
+928;Achat café;2026-01-23;achat café;cash;0;37500;418500
+929;Pot / Petit Déj;2026-01-26;ptit dej;cash;0;45500;373000
+930;Autre;2026-01-26;akewa;cash;0;18000;355000
+931;Pot / Petit Déj;2026-02-02;chandeleur;cash;0;20000;335000
+932;Pot / Petit Déj;2026-02-02;chandeleur;cash;0;6000;329000
+933;ZWANG;2026-02-04;Paiement Cotisation;cash;45000;0;374000
+934;BURY;2026-02-04;Paiement Cotisation;cash;15000;0;389000
+935;PARE;2026-02-04;Paiement Cotisation;cash;30000;0;419000
+936;ALLARD;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+937;BERANTO;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+938;BOLLIET;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+939;BUREL;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+940;BURY;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+941;CABELLO;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+942;DEPERROIS;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+943;LE CAM;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+944;LE DOUX;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+945;MOIRE;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+946;PARE;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+947;PENNACCHI;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+948;MBA ANGOUE;2026-02-04;Paiement Cotisation;cotisation;0;0;419000
+949;ZADIR;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+950;RAMAHOLISON;2026-02-04;Paiement Cotisation;cotisation;0;0;419000
+951;ZWANG;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+952;BARBARAT;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+953;ANDREA;2026-02-04;Paiement Cotisation;cotisation;0;15000;419000
+954;PARE;2026-02-05;achat divers;cotisation;7800;0;419000
+955;Pot / Petit Déj;2026-02-10;achats divers;cash;0;62000;357000
+956;Pot / Petit Déj;2026-02-10;pourboires (méca, evelyne);cash;0;30000;327000
+957;ANDREA;2026-02-16;Paiement Cotisation;cash;15000;0;342000
+958;Pot / Petit Déj;2026-03-05;crepes;cash;0;20000;322000
+959;Pot / Petit Déj;2026-03-05;accompagnement crepes;cash;0;40000;282000
+960;Achat café;2026-03-06;achat café;cash;0;42000;240000
+961;Pot / Petit Déj;2026-03-09;ptit dej;cash;0;50000;190000
+962;PARE;2026-03-09;reliquat;cotisation;2000;0;190000
+963;ALLARD;2026-03-09;paiement coti;cash;10000;0;200000
+964;MOIRE;2026-03-09;paiement coti;cash;20000;0;220000
+965;Autre;2026-03-17;changements clefs;cash;0;100000;120000
+966;BARBARAT;2026-03-18;Paiement Cotisation;cash;15000;0;135000
+967;Achat café;2026-03-19;divers thés;cash;0;15000;120000
+968;PARE;2026-03-19;;cotisation;3200;0;120000
+969;ALLARD;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+970;BERANTO;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+971;BOLLIET;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+972;BUREL;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+973;BURY;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+974;CABELLO;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+975;DEPERROIS;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+976;LE CAM;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+977;LE DOUX;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+978;MOIRE;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+979;PARE;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+980;PENNACCHI;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+981;MBA ANGOUE;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+982;ZADIR;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+983;ZWANG;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+984;BARBARAT;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+985;ANDREA;2026-04-13;Paiement Cotisation;cotisation;0;15000;120000
+986;LE CAM;2026-04-13;paiement Cotisation;cash;27000;0;147000
+987;BURY;2026-04-13;paiement Cotisation;cash;15000;0;162000
+988;DEPERROIS;2026-04-13;paiement Cotisation;cash;34000;0;196000
+989;ANDREA;2026-04-14;paiement Cotisation;cash;15000;0;211000
+990;Autre;2026-04-15;achat broyeur café;cash;0;55000;156000
+991;MOIRE;2026-04-22;paiement Cotisation;cash;10000;0;166000
+992;CABELLO;2026-04-22;paiement Cotisation;cash;25000;0;191000
+993;BARBARAT;2026-04-22;paiement Cotisation;cash;15000;0;206000
+994;Autre;2026-04-22;achat bouteilles verre;cash;0;10000;196000
+995;BERANTO;2026-04-22;paiement Cotisation;cash;30000;0;226000
+996;LE DOUX;2026-04-23;paiement Cotisation;cash;30000;0;256000
+997;Achat café;2026-05-06;achat café;cash;0;15000;241000
+998;Autre;2026-05-06;filtres eau;cash;0;20000;221000
+999;ZADIR;2026-05-12;paiement Cotisation;cash;30000;0;251000
+1000;BUREL;2026-05-12;paiement Cotisation;cash;20000;0;271000
+1001;Pot / Petit Déj;2026-05-18;crepes;cash;0;40000;231000
+1002;PARE;2026-05-18;crepes;cotisation;8800;0;231000
+1003;Pot / Petit Déj;2026-06-03;croque monsieur;cash;0;85000;146000
+1004;ALLARD;2026-06-04;Paiement Cotisation;cotisation;0;15000;146000
+1005;ALLARD;2026-06-04;Paiement Cotisation;cotisation;0;15000;146000
+1006;BUREL;2026-06-05;Paiement Cotisation;cotisation;0;15000;146000
+1007;ANDREA;2026-06-05;Paiement Cotisation;cotisation;0;15000;146000
+1008;BURY;2026-06-06;Paiement Cotisation;cotisation;0;15000;146000
+1009;BUREL;2026-06-06;Paiement Cotisation;cotisation;0;15000;146000
+1010;CABELLO;2026-06-07;Paiement Cotisation;cotisation;0;15000;146000
+1011;BURY;2026-06-07;Paiement Cotisation;cotisation;0;15000;146000
+1012;DEPERROIS;2026-06-08;Paiement Cotisation;cotisation;0;15000;146000
+1013;CABELLO;2026-06-08;Paiement Cotisation;cotisation;0;15000;146000
+1014;LE CAM;2026-06-09;Paiement Cotisation;cotisation;0;15000;146000
+1015;PARE;2026-06-09;Paiement Cotisation;cash;9000;0;155000
+1016;ALLARD;2026-06-09;Paiement Cotisation;cash;30000;0;185000
+1017;BUREL;2026-06-09;Paiement Cotisation;cash;20000;0;205000
+1018;ANDREA;2026-06-09;Paiement Cotisation;cash;15000;0;220000
+1019;CHAILLOT;2026-06-09;Paiement Cotisation;cotisation;0;15000;220000
+1020;LE DOUX;2026-06-10;Paiement Cotisation;cotisation;0;15000;220000
+1021;DEPERROIS;2026-06-10;Paiement Cotisation;cotisation;0;15000;220000
+1022;MOIRE;2026-06-11;Paiement Cotisation;cotisation;0;15000;220000
+1023;LE CAM;2026-06-11;Paiement Cotisation;cotisation;0;15000;220000
+1024;PARE;2026-06-12;Paiement Cotisation;cotisation;0;15000;220000
+1025;LE DOUX;2026-06-12;Paiement Cotisation;cotisation;0;15000;220000
+1026;PENNACCHI;2026-06-13;Paiement Cotisation;cotisation;0;15000;220000
+1027;MOIRE;2026-06-13;Paiement Cotisation;cotisation;0;15000;220000
+1028;MBA ANGOUE;2026-06-14;Paiement Cotisation;cotisation;0;15000;220000
+1029;MBA ANGOUE;2026-06-14;Paiement Cotisation;cotisation;0;15000;220000
+1030;ZADIR;2026-06-15;Paiement Cotisation;cotisation;0;15000;220000
+1031;PARE;2026-06-15;Paiement Cotisation;cotisation;0;15000;220000
+1032;ZWANG;2026-06-16;Paiement Cotisation;cotisation;0;15000;220000
+1033;PENNACCHI;2026-06-16;Paiement Cotisation;cotisation;0;15000;220000
+1034;BARBARAT;2026-06-17;Paiement Cotisation;cotisation;0;0;220000
+1035;ZADIR;2026-06-17;Paiement Cotisation;cotisation;0;15000;220000
+1036;ANDREA;2026-06-18;Paiement Cotisation;cotisation;0;15000;220000
+1037;ZWANG;2026-06-18;Paiement Cotisation;cotisation;0;15000;220000
+1038;CABELLO;2026-06-22;Paiement Cotisation;cash;15000;0;235000
+1039;BURY;2026-06-22;Paiement Cotisation;cash;20000;0;255000
+1040;MBA ANGOUE;2026-06-22;Paiement Cotisation;cash;30000;0;285000
+1041;PENNACCHI;2026-06-24;paiement Cotisation;cash;50000;0;335000
+1042;DEPERROIS;2026-06-24;paiement Cotisation;cash;20000;0;355000
+1043;LE CAM;2026-06-24;paiement Cotisation;cash;15000;0;370000
+1044;Achat café;2026-07-24;achat café;cash;0;45000;325000
+1045;MOIRE;2026-08-07;paiement Cotisation;cash;30000;0;355000
+1046;CHAILLOT;2026-08-10;paiement Cotisation;cash;15000;0;370000
+1047;LE CAM;2026-08-10;paiement Cotisation;cash;15000;0;385000
+1048;DEPERROIS;2026-08-10;paiement Cotisation;cash;15000;0;400000
+1049;CABELLO;2026-08-10;paiement Cotisation;cash;15000;0;415000
+1050;BUREL;2026-08-10;paiement Cotisation;cash;10000;0;425000
+1051;ZWANG;2026-08-10;paiement Cotisation;cash;30000;0;455000
+1052;PARE;2026-08-11;achat filtres eau;cotisation;17000;0;455000
+1053;Achat café;2026-08-14;achat café+bières;cash;0;75000;380000
+1054;Autre;2026-08-14;achat vins repas 17 aout;cash;0;70000;310000
+1055;Pot / Petit Déj;2026-08-16;repas 17 aout;cash;0;310000;0
+1056;DEPERROIS;2026-08-16;complément addtition repas;cotisation;30000;0;0
+1057;LE DOUX;2026-08-25;paiement Cotisation;cash;30000;0;30000
+1058;Pot / Petit Déj;2026-08-17;remboursement vin GAP;cash;70000;0;100000
+1059;PARE;2026-09-01;achat boissons;cash;3000;0;103000
+1060;DEPERROIS;2026-09-01;vidage compte;cash;0;3000;100000
+1061;DEPERROIS;2026-09-01;équiliibrage vidage;cotisation;0;3000;100000
+1062;MBA ANGOUE;2026-09-01;paiement Cotisation;cash;20000;0;120000
+1063;DEPERROIS;2026-09-15;dégust vins;cotisation;112000;0;120000
+1064;Achat café;2026-09-01;achat café;cash;0;18000;102000
+1065;DEPERROIS;2026-09-16;monnaie;cash;0;2000;100000
+1066;LE CAM;2026-09-20;double clefs 10+20 LDX;cash;0;30000;70000
+1067;Achat café;2026-09-22;achat café;cash;0;60000;10000

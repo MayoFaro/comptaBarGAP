@@ -1,0 +1,57 @@
+{
+  "config/access": {
+    "adminUid": "fixture-admin"
+  },
+  "config/settings": {
+    "name": "Bar GAP",
+    "openingDate": "2026-09-29",
+    "openingBalance": 10000,
+    "firstDueMonth": "2026-10",
+    "rates": [
+      {
+        "from": "2026-10",
+        "amount": 7500
+      }
+    ],
+    "schedules": [
+      {
+        "from": "2026-10",
+        "frequency": 2
+      }
+    ],
+    "categories": [
+      "Café",
+      "Alimentation",
+      "Matériel",
+      "Entretien",
+      "Autre"
+    ],
+    "denominations": [
+      10000,
+      5000
+    ],
+    "noticeDays": 5
+  },
+  "users/fixture-admin": {
+    "memberId": "administrator",
+    "role": "ADMIN"
+  },
+  "members/administrator": {
+    "id": "administrator",
+    "name": "DEPERROIS",
+    "uid": "fixture-admin",
+    "accessUid": "",
+    "email": "admin@example.test",
+    "firstDueMonth": "2026-10",
+    "openingDebt": 0,
+    "openingCredit": 0,
+    "charges": {},
+    "terms": [
+      {
+        "from": "2026-09",
+        "to": null
+      }
+    ],
+    "absences": []
+  }
+}
